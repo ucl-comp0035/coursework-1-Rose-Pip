@@ -14,11 +14,20 @@ instructions to be followed to run your coursework.
 
 If the marker cannot execute your coursework they can't grade it!
 
-
 ## Selection of project methodology
 ### Methodology (or combination) selected
 
 ### Selection criteria and justification of selection
+Here is the criteria for the project methodology selection (ordered from most important to the least important for this particular software project development):
+1. Is it suitable for software 
+developers with little or no experience with software engineering and data science process models? 
+2. Is it suitable for the team size 
+3. The ease for non-experienced team member to adapt the methodology. 
+4. Votality in the requirements for the software. 
+5. Level of complexity of the requirements for the software. 
+6. Efficiency of this methodology. 
+
+
 
 
 ## Definition of the business need
