@@ -59,7 +59,7 @@ The answer to this question is resolved by fig.3. By calculating the average ann
 ## Data preparation and exploration
 ### Data preparation
 
-[Data Preparation](data_preparation.py)
+[Data Preparation](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_preparation.py)
 
 ### Prepared data set
 Please add names of your data set files in this repository below, then delete this instruction text.
