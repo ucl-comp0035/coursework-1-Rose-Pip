@@ -57,7 +57,7 @@ The answer to this question is resolved by fig.2. Quite a few factors are consid
 Notice that - Spead is more important than height because the spread of trees can be used to estimate the available area of leaves for photosynthesis, which is directly linked to the estimation of CO2 absorbtion
 
 **3. Is the quantity of trees increasing through urban greening project?**
-The answer to this question is resolved by fig.3. By calculating the average annual growth(or decrease) of tree quantity in each borough, the City Town Hall can examine the effectiveness of their action in these boroughs. 
+The answer to this question is resolved by fig.3. By calculating the average annual growth(or decrease) of tree quantity in each borough from **2018 to 2021**, the City Town Hall can examine the effectiveness of their action in these boroughs. 
 
 
 ## Data preparation and exploration
