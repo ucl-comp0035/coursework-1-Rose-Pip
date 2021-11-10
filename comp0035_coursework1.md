@@ -47,7 +47,7 @@ Please add names of your data set files in this repository below, then delete th
 
 ### Data exploration
 
-[Data Exploration]()
+[Data Exploration](data_exploration.py)
 
 ## Weekly progress reports
 Copy and paste from Moodle or use the following structure. Delete this instruction text.
