@@ -16,6 +16,7 @@ If the marker cannot execute your coursework they can't grade it!
 
 ## Selection of project methodology
 ### Methodology (or combination) selected
+scrum
 
 ### Selection criteria and justification of selection
 Here is the criteria for the project methodology selection (ordered from most important to the least important for this particular software project development):
@@ -25,11 +26,15 @@ Here is the criteria for the project methodology selection (ordered from most im
 
 3. The ease to adapt the methodology:The ease for non-experienced team member to adapt the methodology.
 
-4. Volatility in the requirements for the software: structured. 
+4. Volatility in the requirements for the software: quite volatile (real -time mapping, more functions might be added).
 
-5. Level of complexity of the requirements for the software: simple visuals and direct user purposes 
+5. Level of complexity of the requirements for the software: real-time visuals (real-time data such as longtitude and latitude should be available as well)
 
 Justification:
+Scrum is a framework for developing, delivering, and sustaining products in a complex environment, with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies. It is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called sprints, no longer than one month and most commonly two weeks. 
+Scrum is a framework used for app development, delivery and maintenance of the app product. With scrum structures, team members progress in time-boxed daily meetings of 15 minutes or less, which is called daily scrums (a form of stand-up meeting). At the end of the sprint, the team holds two further meetings: the sprint review which demonstrates the work done to stakeholders to elicit feedback, and sprint retrospective which enables the team to reflect and improve. With high frequency of meeting, constant discussions and improvements and short lifetime of each small sprint. It is very sensity to any required change/ errors/ misunderstanding between team members. Therefore, it very effective for volatile requirements in our case. Moreover, it is ideal for small development team to produce an app in a short period. The scrum method, despites its efficiency, does not have a complex work flow, and therefore is beginner-friendly. 
+
+Overall, to develop a web app that contains highly volatile requirements in a small team within a relatively short time period, scrum is the ideal framework. 
 
 ## Definition of the business need
 ### Problem definition
