@@ -29,17 +29,20 @@ Here is the criteria for the project methodology selection (ordered from most im
 
 5. Level of complexity of the requirements for the software: simple visuals and direct user purposes 
 
+Justification:
+
 ## Definition of the business need
 ### Problem definition
+City Hall is the headquarters of the Greater London Authority (GLA), which comprises the Mayor of London and the London Assembly. This authority has an onging 'Urban Greening' project to improve the environment in Great London. One of the actions taken in this project is planting trees in the Great London area. The City Hall would like to examine the effectiveness of their tree planting action in real time. A real-time map of the recorded tree distribution data in Great London boroughs will help them to achieve their goals. London is a growing city.It is predicted that the population of Great London area will increase to up to 3 million people. Thus, an effective and efficient green infrastructure network will be vital to help the city stay healthy and liveable as the population becomes larger. In long run, the 'Urban Greening' project will help to reduce Global warming's impact on London's wheather and to increase the sustainability of the local economy with decrease in CO2 footprint. All visuals and data will be open to the UK citizen according to the transparency policies. 
 
 ### Target audience
-
-### Questions to be answered using the dataset
+London City Hall - Use the real time tree distribution map to examine the effectiveness of their tree planting action, and to seek for improvements in their greening strategies. Citizens are alse encouraged to use the web app. 
 
 ### Suggested web app
 1. Real-time map of the tree distribution in Great London Boroughs (a few most common tree species will be coloured distinguishly)
-2. The real-time map is open to all Uk citizens.
-3. The map has a zooming function. The users can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
+2. The map has a zooming function. The user can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
+3. The legends on the map state the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ordered according to the quantity of trees in that region). 
+
 ## Data preparation and exploration
 ### Data preparation
 
