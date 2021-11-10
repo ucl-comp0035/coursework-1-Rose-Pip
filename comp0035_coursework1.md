@@ -44,13 +44,20 @@ London City Hall - Use the real time tree distribution map to examine the effect
 3. The legends on the map state the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ordered according to the quantity of trees in that region). 
 
 ### Questions to be answered using the dataset
-1.The quantity of the most common tree species in the Great London area?
+####1.The quantity of the most common tree species in the Great London area?
 The answer to this question is resolved by fig.1. The answer, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area.
 
-2. Is the quantity of trees increasing through urban greening project?
-The answer to this question is resolved by fig.2. By calculating the average annual growth(or decrease) of tree quantity in each borough, the City Town Hall can examine the effectiveness of their action in these boroughs. 
+####2. The regions where the most positive impact has been seen.
+The answer to this question is resolved by fig.2. Quite a few factors are considered, they are listed in a ranked order:
+a. quantity of trees 
+b. age of trees (the younger the better)
+c. spread of trees
+d. height of trees 
 
-3.
+Notice that - Spead is more important than height because the spread of trees can be used to estimate the available area of leaves for photosynthesis, which is directly linked to the estimation of CO2 absorbtion
+
+####3. Is the quantity of trees increasing through urban greening project?
+The answer to this question is resolved by fig.3. By calculating the average annual growth(or decrease) of tree quantity in each borough, the City Town Hall can examine the effectiveness of their action in these boroughs. 
 
 
 ## Data preparation and exploration
