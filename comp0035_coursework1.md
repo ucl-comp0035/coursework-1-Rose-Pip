@@ -63,12 +63,12 @@ The answer to this question is resolved by fig.3. By calculating the average ann
 
 ### Prepared data set
 Please add names of your data set files in this repository below, then delete this instruction text.
-[Original data set]()
+[Original data set](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/tree/master/data)
 [Prepared data set]()
 
 ### Data exploration
 
-[Data Exploration](data_exploration.py)
+[Data Exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration.py)
 
 ## Weekly progress reports
 
