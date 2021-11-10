@@ -24,7 +24,7 @@ developers with little or no experience with software engineering and data scien
 2. Is it suitable for the small team size 
 3. The ease for non-experienced team member to adapt the methodology. 
 4. Volatility in the requirements for the software. 
-5. Level of complexity of the requirements for the software.  
+5. Level of complexity of the requirements for the software.  :)
 
 ## Definition of the business need
 ### Problem definition
