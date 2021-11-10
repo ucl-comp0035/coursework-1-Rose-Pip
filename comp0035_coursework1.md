@@ -90,12 +90,62 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 - item
 
 ### Report 1
+What I did in the last week:
+1. The criteria for the methodology selection is:
+
+The technical backgrounds of the teammates 
+The expected lifetime for the deployment of the web app (depends on the scenario your team is in, for instance, the clients would like to get the final product in three months)
+The functionalities of the web app 
+2. With this criteria in mind, I made my conclusions:
+
+The team members are from non-programming backgrounds 
+The lifetime of the web app is yet to be determined depending on the persona of the clients 
+The functionalities of the web app for the tree map are not : 1. map visuals of tree characteristics; 2. blogs and forums 3. data visuals to see trends and to extract useful environmental information
+3. To meet the criteria:
+the methodology Scrum is chosen, because it enables a small, cross-functional, self-managing team to deliver fast. 
+
+What I plan to do in the next week:
+1. I would like to finish editing the data visualisation python script to explore useful information from the data set I am allocated with. In my case, I would like to plot a correlation diagram between the size of open spaces and the availability of trees in the region, to see the impact of the availability of open space on the quantity of trees. 
+
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+1. I have carefully read the specification and cloned the repository to the local IDE. However, I was not too sure about where to list the data visuals. I would like to ask for suggestions in the next tutorial session. 
 
 ### Report 2
+What I did in the last week:
+1. I learned how to develop a problem statement and persona with clear logics and in standard format. 
+
+2. I have listed a few personas that might be interested to visit the web app I developed (the people who cared about the local environment and regreening of the local regions)
+
+What I plan to do in the next week:
+I will do data ETL and develop visuals and graphs based on the persona and the problem statement. 
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+1. no pending question for this week. 
 
 ### Report 3
+What I did in the last week:
+1. Learned Pandas Library 
+
+2. learned how to import data to the python environment 
+
+3. started on data cleaning and processing 
+
+What I plan to do in the next week:
+1. complete the first draft of my cw report. 
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+No particular this week. 
 
 ### Report 4
+What I did in the last week:
+1. finalsing coursework1
+
+What I plan to do in the next week:
+fix the python extension, and improve the submitted coursework1. 
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+3. my python scripts were gone for some reasons, and my python extension failed to work (greyed out). 
 
 ## References
 1.“Town Hall.” Wikipedia, 31 July 2020, en.wikipedia.org/wiki/City_Hall.
