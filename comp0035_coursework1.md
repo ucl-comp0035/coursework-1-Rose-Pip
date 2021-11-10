@@ -43,6 +43,16 @@ London City Hall - Use the real time tree distribution map to examine the effect
 2. The map has a zooming function. The user can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
 3. The legends on the map state the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ordered according to the quantity of trees in that region). 
 
+### Questions to be answered using the dataset
+1.The quantity of the most common tree species in the Great London area?
+The answer to this question is resolved by fig.1. The answer, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area.
+
+2. Is the quantity of trees increasing through urban greening project?
+The answer to this question is resolved by fig.2. By calculating the average annual growth(or decrease) of tree quantity in each borough, the City Town Hall can examine the effectiveness of their action in these boroughs. 
+
+3.
+
+
 ## Data preparation and exploration
 ### Data preparation
 
