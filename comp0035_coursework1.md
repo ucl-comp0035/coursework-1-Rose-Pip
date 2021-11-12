@@ -98,6 +98,8 @@ The exploration stage initiated with the analysis of the quantity distribution o
 
 The exploration stage then processed to the comparison of the quantity of trees in the Great London boroughs in 2018 and 2021 (latest logged-in data), from which the average annual growth rate of trees (greening rate) in each borough ( in the 2018-2021 period) can be estimated. Moreover, the bar chart shows the gap of quantity of trees between different boroughs. 
 
+![Bar chart of trees distribution in the Great London Borough](http://url/to/img.png)
+
 It can be observed that City of London is the least greened region with the lowest quantity of trees in both 2018 and 2021. Bothe **City of London** and **TFL** regions suffered from decrease in the quantity of trees in the 2018-2021 period. The tree-planting action has to be enhanced specially in **City of London** region. 
 
 ## Weekly progress reports
