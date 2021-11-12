@@ -44,7 +44,7 @@ London City Hall is the headquarters of the Greater London Authority (GLA), whic
 The London City Hall would like to examine the effectiveness of the **tree planting** action under the **Urban Greening** project, in which way they can seek for improvements in their tree planting strategies in the future (such as which borough needs more regreening, and which tree species is the most suitable options, etc). However, it is financially impossible and extremely inefficient for the London City Hall to send employees to manually process the urban tree datasets to estimate the real-time distribution of trees, growth rate of quantity of trees and other characteristics of trees in all London boroughs. Therefore, it is necessary to automate the data analysis and visualisation process to generate informative results, which enables the London City Hall to establish strategic moves in the future regarding the current stage of the **tree planting** action. All data and visuals will be open to the UK citizens according to the transparency policies. 
 
 ### Target audience
-London City Hall - Use the real time tree distribution map to examine the effectiveness of their tree planting action, and to seek for improvements in their greening strategies. Citizens are alse encouraged to use the web app. 
+London City Hall - Use the web app to examine the effectiveness of their tree planting action, and to seek for improvements in their greening strategies constantly. Citizens are alse encouraged to use the web app. 
 
 ### Suggested web app
 1. It has an interface for the users to log in the collected data of urban trees, and the data processing stage is fully automated.
@@ -96,9 +96,11 @@ The prepared data set can be analysed further to get some informative results (e
 
 The exploration stage initiated with the analysis of the quantity distribution of different tree species in the Great London area. The five most common ones are shown here (the data set logged in the system in 2021 is the most recent one available):
 
+
+
 The exploration stage then processed to the comparison of the quantity of trees in the Great London boroughs in 2018 and 2021 (latest logged-in data), from which the average annual growth rate of trees (greening rate) in each borough ( in the 2018-2021 period) can be estimated. Moreover, the bar chart shows the gap of quantity of trees between different boroughs. 
 
-![Bar chart of trees distribution in the Great London Borough](http://url/to/img.png)
+![Bar chart of trees distribution in the Great London Borough](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/image/dataplot.png)
 
 It can be observed that City of London is the least greened region with the lowest quantity of trees in both 2018 and 2021. Bothe **City of London** and **TFL** regions suffered from decrease in the quantity of trees in the 2018-2021 period. The tree-planting action has to be enhanced specially in **City of London** region. 
 
