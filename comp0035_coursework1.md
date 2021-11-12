@@ -33,11 +33,9 @@ Here is the criteria for the project methodology selection (ordered from most im
 Justification:
 Scrum is a framework for developing, delivering, and sustaining products in a complex environment, with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies. It is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called sprints, no longer than one month and most commonly two weeks. 
 Scrum is a framework used for app development, delivery and maintenance of the app product. With scrum structures, team members progress in time-boxed daily meetings of 15 minutes or less, which is called daily scrums (a form of stand-up meeting). At the end of the sprint, the team holds two further meetings: the sprint review which demonstrates the work done to stakeholders to elicit feedback, and sprint retrospective which enables the team to reflect and improve. With high frequency of meeting, constant discussions and improvements and short lifetime of each small sprint. It is very sensity to any required change/ errors/ misunderstanding between team members. Therefore, it very effective for volatile requirements in our case. Moreover, it is ideal for small development team to produce an app in a short period. The scrum method, despites its efficiency, does not have a complex work flow, and therefore is beginner-friendly. 
-
 Overall, to develop a web app that contains highly volatile requirements in a small team within a relatively short time period, scrum is the ideal framework. 
 
 ## Definition of the business need
->
 ### Problem definition
 It is predicted that the population of Great London area will increase to up to 3 million people. Thus, an effective and efficient urban environmental protection project will is vital to help the city stay healthy and liveable as the population becomes larger.
 
@@ -48,19 +46,24 @@ The London City Hall would like to examine the effectiveness of the **tree plant
 London City Hall - Use the real time tree distribution map to examine the effectiveness of their tree planting action, and to seek for improvements in their greening strategies. Citizens are alse encouraged to use the web app. 
 
 ### Suggested web app
-1. Real-time map of the tree distribution in Great London Boroughs (a few most common tree species will be coloured distinguishly)
+1. Real-time map of the tree distribution in Great London Boroughs (a few most common tree species will be coloured distinguishly). Real-time charts and dataset tables that reflect the characteristics of trees in the London Boroughs. 
 2. The map has a zooming function. The user can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
-3. The legends on the map state the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ordered according to the quantity of trees in that region). 
+3. The legends on the tree distribution map demonstrate the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ranked according to the quantity of trees in that region). 
+4. It has an interface for the users to log in the collected data of urban trees, and the data processing stage is fully automated.
+
 
 ### Questions to be answered using the dataset
 **1.The quantity of the most common tree species in the Great London area?**
-The answer to this question is resolved by fig.1. The answer, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area.
+The answer to this question, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area.
 
 **2. Is the quantity of trees increasing through urban greening project?**
-The answer to this question is resolved by fig.3. By calculating the average annual growth(or decrease) of tree quantity in each borough from **2018 to 2021**, the City Town Hall can examine the effectiveness of their action in these boroughs. 
+By calculating the average annual growth(or decrease) of tree quantity in each borough from **2018 to 2021**, the City Town Hall can examine the effectiveness of their action in these boroughs in the 2018-2021 period. 
 
+**3. How does the availability of open space impact the tree planting action in the Great London Area** ?
 
 ## Data preparation and exploration
+### :white_check_mark: Early stage exploration (exploration of data characteristics before data preparation)
+
 ### Data preparation
 
 [Data Preparation](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_preparation.py)
