@@ -47,11 +47,10 @@ The London City Hall would like to examine the effectiveness of the **tree plant
 London City Hall - Use the real time tree distribution map to examine the effectiveness of their tree planting action, and to seek for improvements in their greening strategies. Citizens are alse encouraged to use the web app. 
 
 ### Suggested web app
-1. Real-time map of the tree distribution in Great London Boroughs (a few most common tree species will be coloured distinguishly). Real-time charts and dataset tables that reflect the characteristics of trees in the London Boroughs. 
-2. The map has a zooming function. The user can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
-3. The legends on the tree distribution map demonstrate the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ranked according to the quantity of trees in that region). 
-4. It has an interface for the users to log in the collected data of urban trees, and the data processing stage is fully automated.
-
+1. It has an interface for the users to log in the collected data of urban trees, and the data processing stage is fully automated.
+2. Dynamic charts and dataset tables based on real-time logged-in data that reflect the characteristics of trees in the London Boroughs. 
+3. A real-time map, where the user can zoom in to view the specific longitude and latitude of trees in the borough they are interested in. 
+4. The legends on the tree distribution map demonstrate the total amount of trees recorded in each borough (it is a dynamic legend, where the boroughs are ranked according to the quantity of trees in that region). 
 
 ### Questions to be answered using the dataset
 **1.The quantity of the most common tree species in the Great London area?**
@@ -68,6 +67,11 @@ By calculating the average annual growth(or decrease) of tree quantity in each b
 
 ### :white_check_mark: Early stage exploration (exploration of data characteristics before data preparation)
 [data_exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration.py)
+At this stage, the information of planted trees in the Great London area was imported in forms of pandas dataframes into the python environment. The NaN cells and columns were spotted, and the types of cell values in each column in all dataframes were recognised.
+
+**The types presented are:**
+- numerical: Int64, float64
+- strings and numerical combined: Object 
 
 
 ### :white_check_mark: Data preparation
