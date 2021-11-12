@@ -54,12 +54,10 @@ London City Hall - Use the real time tree distribution map to examine the effect
 
 ### Questions to be answered using the dataset
 **1.The quantity of the most common tree species in the Great London area?**
-The answer to this question, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area.
+The answer to this question, combined with the records of the quantity of planted seeds and saplings of each species, can help the City Town Hall to estimate which are the species most likely to survive and grow healthily with the weather and environmental conditions in the Great London area. Therefore, they will invest more into planting these specific species for higher greening rate in the future. 
 
 **2. Is the quantity of trees increasing through urban greening project?**
 By calculating the average annual growth(or decrease) of tree quantity in each borough from **2018 to 2021**, the City Town Hall can examine the effectiveness of their action in these boroughs in the 2018-2021 period. 
-
-**3. How does the availability of open space impact the tree planting action in the Great London Area** ?
 
 
 ## Data preparation and exploration
@@ -67,6 +65,7 @@ By calculating the average annual growth(or decrease) of tree quantity in each b
 
 ### :white_check_mark: Early stage exploration (exploration of data characteristics before data preparation)
 [data_exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration.py)
+
 At this stage, the information of planted trees in the Great London area was imported in forms of pandas dataframes into the python environment. The NaN cells and columns were spotted, and the types of cell values in each column in all dataframes were recognised.
 
 **The types presented are:**
@@ -77,9 +76,15 @@ At this stage, the information of planted trees in the Great London area was imp
 ### :white_check_mark: Data preparation
 [Data Preparation](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_preparation.py)
 
+Since it is already known that the types of column values are either numerial(Int64, float64) or non-numerical (mixed type). Therefore, a function **remove_nan(df)** was built in the python script, which places NaN cells to either number 0 in the numerical-type columns, or a string "not recorded" in the mixed-type columns. This is for the unity of data type in all columns. 
+
+Moreover, the empty columns and columns that would not be used for the data exploration stage are dropped, to speed up the running process, and to simplify the dataframe rearranging in the next stage. 
+
+*** Note that, the longtitude and latitude columns will be vital when it comes to enabling the real-time tree distribution map to spot the accurate longtitude and latitude values of trees in the final web app product. So do other dropped columns for other web-app functionalities. They are dropped for now, but will be analysed later when coming across the web-app design.***
 
 ### :white_check_mark: Prepared data set
-Please add names of your data set files in this repository below, then delete this instruction text.
+The links below will direct to the raw data sets. A zip file of the extremely big data set is presented in the original data set folder, in case the csv file failed to function or had any incorrect information. 
+
 [Original data set](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/tree/master/data)
 [Prepared data set](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/tree/master/prepared_data)
 
@@ -87,6 +92,13 @@ Please add names of your data set files in this repository below, then delete th
 ### :white_check_mark: Data exploration
 [Further Data Exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration_2.py)
 
+The prepared data set can be analysed further to get some informative results (either numerical values or visualisations). For the current stage, the most urgent problem for the London City Hall is to examine the effectiveness of their **tree-planting** action, and what strategic moves they can take in the near future. 
+
+The exploration stage initiated with the analysis of the quantity distribution of different tree species in the Great London area. The five most common ones are shown here (the data set logged in the system in 2021 is the most recent one available):
+
+The exploration stage then processed to the comparison of the quantity of trees in the Great London boroughs in 2018 and 2021 (latest logged-in data), from which the average annual growth rate of trees (greening rate) in each borough ( in the 2018-2021 period) can be estimated. Moreover, the bar chart shows the gap of quantity of trees between different boroughs. 
+
+It can be observed that City of London is the least greened region with the lowest quantity of trees in both 2018 and 2021. Bothe **City of London** and **TFL** regions suffered from decrease in the quantity of trees in the 2018-2021 period. The tree-planting action has to be enhanced specially in **City of London** region. 
 
 ## Weekly progress reports
 
