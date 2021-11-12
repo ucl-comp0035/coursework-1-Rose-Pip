@@ -64,16 +64,16 @@ By calculating the average annual growth(or decrease) of tree quantity in each b
 ## Data preparation and exploration
 ### :white_check_mark: Early stage exploration (exploration of data characteristics before data preparation)
 
-### Data preparation
+### :white_check_mark: Data preparation
 
 [Data Preparation](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_preparation.py)
 
-### Prepared data set
+### :white_check_mark: Prepared data set
 Please add names of your data set files in this repository below, then delete this instruction text.
 [Original data set](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/tree/master/data)
 [Prepared data set](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/tree/master/data)
 
-### Data exploration
+### :white_check_mark: Data exploration
 
 [Data Exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration.py)
 
