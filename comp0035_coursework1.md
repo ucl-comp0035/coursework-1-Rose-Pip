@@ -67,7 +67,7 @@ By calculating the average annual growth(or decrease) of tree quantity in each b
 **This section is composed of three stages. In the first stage (early stage exploration), NaN is spotted and type of each column is generated. I decided to replace NaN with either integer 0 or 'not recorded', depending on the type of each column. If the column is numerical (i.e. Int64 and float64), then replace NaN with 0. If the column in other form, replace NaN with 'not recorded'. The second stage would be data preparaton, where data cleaning took place to replace NaN, remove any potential outliers and transfer the dataset into proper forms for any future data analysis. The third stage is to do data analysis and visualisations to explore any informative trends or generate any usdeful information for the London City Hall's problems.**
 
 ### :white_check_mark: Early stage exploration (exploration of data characteristics before data preparation)
-[data_exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploratoin.py)
+[data_exploration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/data_exploration.py)
 
 
 ### :white_check_mark: Data preparation
