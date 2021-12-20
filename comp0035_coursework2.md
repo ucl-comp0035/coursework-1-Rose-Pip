@@ -22,7 +22,9 @@ Based on the problem definition and target audience, a context diagram is genera
 ### Requirements identification methods
 The requirements identification method applied is to identify requirements from users' stories based on brainstorming. In real-life application, surveys and interviews will be combined to generate users' wants and needs (surveys and interviews will take place with ethics approval in London City Hall). However, since no ethics approval is given in this case, no survey or interview is done. All users' stories will solely based on brainstorming and referring to similar web apps. 
 ### Requirement specification method
-The framework chosen for this web app is Scrum to provide an agile application designing process. Therefore, the requirement specification is based on users' stories, which is constantly updated based on the changes of users' needs and the realisticity of users' needs. A user story list is documented and provided below. 
+The framework chosen for this web app is Scrum to provide an agile application designing process. 
+Therefore the user story methodology is implied for requirement specification, as it is highly adaptable in agile software development. It demonstrates the types of users and their wants and needs, from which the accpetance criteria are set for the web app design. 
+The user story list is constantly updated based on the changes of users' needs and the realisticity of users' needs. A user story list is documented and provided below. 
 ### Prioritisation method
 
 ### Documented and prioritised requirements
