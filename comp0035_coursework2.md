@@ -33,6 +33,8 @@ Link to the full list of documented and prioritised requirements.
 
 ## Design
 ### Structure and flow of the interface
+The class diagram of this web app is: 
+
 
 ### Relational database design
 
