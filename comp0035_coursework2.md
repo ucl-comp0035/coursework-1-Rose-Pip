@@ -76,11 +76,17 @@ The main functions available for the internal users are:
 ![profile](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/profile%20page.JPG)
 ### Application structure
 #### :o: UML class diagram for this web app
-
+![classdiagram](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/class%20diagram.JPG)
 #### :o: UML sequence diagrams for this web app
 **The sequence diagram for the external users**
-
+![externaluser](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/sequence%20diagram%20(external%20user).JPG)
 **The sequence diagram for the internal users**
+![internaluser](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/sequence%20diagram%20(internal%20user).JPG)
+:warning: Please note that the internal user sequence diagram looks complex. However, it contains four types of processes:
+1. registration loop
+2. login loop
+3. Verified staff (data analysts) editing dashboard
+4. Verified staff (project managers) editing reports/news
 
 ### Relational database design
 
