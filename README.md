@@ -105,7 +105,12 @@ The main functions available for the internal users are:
 **:two: Test 2 failed due to wrong input password**
 ![test 2 results](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/Image-cw2/Test%202%20result.png)
 
-### Coverage Report of the main script 
+### Coverage Report of the main script (alternative testing method)
+**The commends implied here is python -m pytest --cov=python, where python is the project name. This not only gives the testing results for both tests, but also indicates the testing coverage rate.
+Testing coverage rate measures the degree to which the program source code execution achieves when a test is run. High test coverage rate means more of the source code is executed during the test, suggesting that it has a lower probability of containing any undetected bugs compared to the ones with low test coverage rate.The coverage rate of this script is 71%, which means more improvement shall be made to the script[5].**
+
+![coverage report](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/Image-cw2/coverage%20test%201.png)
+![coverage report2](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/Image-cw2/coverage%20test%202.png)
 
 ## Weekly progress reports
 ### Report 1
@@ -162,3 +167,5 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 3.Lucidchart (2019). UML Sequence Diagram Tutorial. [online] Lucidchart. Available at: https://www.lucidchart.com/pages/uml-sequence-diagram.
 
 4.SearchDataManagement. (2019). What is entity relationship diagram (ERD)? - Definition from WhatIs.com. [online] Available at: https://searchdatamanagement.techtarget.com/definition/entity-relationship-diagram-ERD.
+
+5.Dorf, R.C. (2018). Computers, Software Engineering, and Digital Devices. [online] Google Books. CRC Press. Available at: https://books.google.co.uk/books?id=jykvlTCoksMC&pg=PT386&lpg=PT386&dq=%22infeasible+path%22+%22halting+problem%22&source=web&ots=WUWz3qMPRv&sig=dSAjrLHBSZJcKWZfGa_IxYlfSNA&hl=en&sa=X&oi=book_result&ct=result&redir_esc=y#v=onepage&q=%22infeasible%20path%22%20%22halting%20problem%22&f=false [Accessed 22 Dec. 2021].
