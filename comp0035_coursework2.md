@@ -16,7 +16,7 @@ London City Hall - Use the web app to examine the effectiveness of their tree pl
 ## Requirements definition and analysis
 **The requirements section is based on the business need section, i.e. the problem definiton and the targeted audience.**
 Based on the problem definition and target audience, a context diagram is generated to briefly describe the interaction between the relevant entities with the system of the web app.
-![insert](url)
+![contexflow](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/contextflow.JPG)
 ### Requirements identification methods
 The requirements identification method applied is to identify requirements from users' stories based on brainstorming. In real-life application, surveys and interviews will be combined to generate users' wants and needs (surveys and interviews will take place with ethics approval in London City Hall). However, since no ethics approval is given in this case, no survey or interview is done. All users' stories will solely based on brainstorming and referring to similar web apps. 
 ### Requirement specification method
