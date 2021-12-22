@@ -25,7 +25,7 @@ Therefore the **user story methodology** is implied for requirement specificatio
 The user story list is constantly updated based on the changes of users' needs and the realisticity of users' needs. A user story list is documented and provided below. 
 ### Prioritisation method
 **MosCoW Method** is a highly suitable prioritisation method for this web app. MosCoW method is a common tool to categorise requirements so that the stakeholders of the web app can come to a common agreement on the most urgent and important requirements.
-It is a 4-step process:
+It is a 4-step process[1]:
 **Must have**: The web-app features that must be included, else the web app is meaningless. For instance, Youtube must be able to play videos on the web page. 
 **Should have**: The Web-app features that are important but not a must-have. These features differ from the 'Must have' in a way that they can be added in a later released version without impacting the current version. 
 **Could have**: The 'could-have' features are the ones that are good to have for th web app, but not necessary nor urgent. For instance, Deliveroo app can add a voice message function to the deilverer chat box so that the customer can choose to leave a quick easy voice message rather than typing. However, this feature is not necessary nor urgent.
@@ -75,9 +75,9 @@ The main functions available for the internal users are:
 **:nine:Profile Page**
 ![profile](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/profile%20page.JPG)
 ### Application structure
-#### :o: UML class diagram for this web app
+#### :o: UML class diagram for this web app[2]
 ![classdiagram](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/class%20diagram.JPG)
-#### :o: UML sequence diagrams for this web app
+#### :o: UML sequence diagrams for this web app[3]
 **The sequence diagram for the external users**
 ![externaluser](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/sequence%20diagram%20(external%20user).JPG)
 **The sequence diagram for the internal users**
@@ -88,7 +88,7 @@ The main functions available for the internal users are:
 3. Verified staff (data analysts) editing dashboard
 4. Verified staff (project managers) editing reports/news
 
-### Relational database design
+### Relational database design[4]
 ![ERD](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/relational%20database.JPG)
 
 ## Testing
@@ -155,6 +155,10 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 -I am still a bit confused about the testing report bit. 
 
 ## References
-1.
-2.
-3.
+1.Product plan (2018). What is MoSCoW Prioritization? | Overview of the MoSCoW Method. [online] Productplan.com. Available at: https://www.productplan.com/glossary/moscow-prioritization/.
+
+2.Paradigm, V. (2019). UML Class Diagram Tutorial. [online] Visual-paradigm.com. Available at: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/.
+
+3.Lucidchart (2019). UML Sequence Diagram Tutorial. [online] Lucidchart. Available at: https://www.lucidchart.com/pages/uml-sequence-diagram.
+
+4.SearchDataManagement. (2019). What is entity relationship diagram (ERD)? - Definition from WhatIs.com. [online] Available at: https://searchdatamanagement.techtarget.com/definition/entity-relationship-diagram-ERD.
