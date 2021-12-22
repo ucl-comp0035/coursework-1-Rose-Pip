@@ -45,8 +45,18 @@ There are two types of users: external users (citizens who do not work at London
 The main functions available for the internal users are:
 1. For the data analysts at London City Hall, the dashboard editing tools are available to use after login with their authorised staff ID. The dashboard tools are drag-and-drop. 
 2. For the project managers at London City Hall working under the Urban Greening Project, the report/news editing tools are available to use after login with their authorised staff ID. The reports/news editing tools are available solely to the project managers on the reports/news editing web page. 
-#### :o: The Wireframe and the flow of interface
-
+#### :o: The flow of interface
+![InterfaceFlow](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/Interface%20flow.JPG)
+#### :o: Wireframes of each page 
+**:one:Registration Page**
+**:two:Login Page**
+**:three:External User Home Page**
+**:four:Internal User Home Page**
+**:five:DashBoard**
+**:six:Reports/News**
+**:seven:DashBoard Editing Page**
+**:eight:Reports/News Editing Page**
+**:nine:Profile Page**
 ### Application structure
 #### :o: UML class diagram for this web app
 
