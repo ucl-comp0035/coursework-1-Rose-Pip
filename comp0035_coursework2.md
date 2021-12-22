@@ -89,6 +89,7 @@ The main functions available for the internal users are:
 4. Verified staff (project managers) editing reports/news
 
 ### Relational database design
+![ERD](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/relational%20database.JPG)
 
 ## Testing
 ### Choice of unit testing library
