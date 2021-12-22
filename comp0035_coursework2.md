@@ -49,23 +49,31 @@ The main functions available for the internal users are:
 ![InterfaceFlow](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/Interface%20flow.JPG)
 #### :o: Wireframes of each page 
 **:one:Registration Page**
+![registration](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/sign-up%20page.JPG)
 
 **:two:Login Page**
+![login](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/login%20page%20wireframe.JPG)
 
 **:three:External User Home Page**
+![externalhome](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/home%20page%20external%20user.JPG)
 
 **:four:Internal User Home Page**
+![internalhome](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/home%20page%20internal%20user.JPG)
 
 **:five:DashBoard**
+![dashboard](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/dasboard.JPG)
 
 **:six:Reports/News**
+![report](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/report_news.JPG)
 
 **:seven:DashBoard Editing Page**
+![dashboardedit](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/dash%20board%20editing%20page.JPG)
 
 **:eight:Reports/News Editing Page**
+![reportsedit](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/report_news%20editing.JPG)
 
 **:nine:Profile Page**
-
+![profile](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/profile%20page.JPG)
 ### Application structure
 #### :o: UML class diagram for this web app
 
