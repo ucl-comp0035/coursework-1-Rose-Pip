@@ -95,8 +95,9 @@ The main functions available for the internal users are:
 ### Choice of unit testing library is Pytest Library 
 
 ### Tests
-**:one: ![test 1 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_1_script.py)**
-**:two: ![test 2 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_2_script.py)**
+**:one: [test 1 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_1_script.py)**
+**:two: [test 2 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_2_script.py)**
+**:three: [tested class script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/python/main.py)**
 
 ### Test results
 **:one: Test 1 passed due to correct assertion**
