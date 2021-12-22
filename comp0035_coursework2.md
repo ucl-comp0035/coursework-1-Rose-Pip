@@ -23,12 +23,19 @@ Based on the problem definition and target audience, a context diagram is genera
 The requirements identification method applied is to identify requirements from users' stories based on brainstorming. In real-life application, surveys and interviews will be combined to generate users' wants and needs (surveys and interviews will take place with ethics approval in London City Hall). However, since no ethics approval is given in this case, no survey or interview is done. All users' stories will solely based on brainstorming and referring to similar web apps. 
 ### Requirement specification method
 The framework chosen for this web app is Scrum to provide an agile application designing process. 
-Therefore the user story methodology is implied for requirement specification, as it is highly adaptable in agile software development. It demonstrates the types of users and their wants and needs, from which the accpetance criteria are set for the web app design. 
+Therefore the **user story methodology** is implied for requirement specification, as it is highly adaptable in agile software development. It demonstrates the types of users and their wants and needs, from which the accpetance criteria are set for the web app design. 
 The user story list is constantly updated based on the changes of users' needs and the realisticity of users' needs. A user story list is documented and provided below. 
 ### Prioritisation method
-
+**MosCoW Method** is a highly suitable prioritisation method for this web app. MosCoW method is a common tool to categorise requirements so that the stakeholders of the web app can come to a common agreement on the most urgent and important requirements.
+It is a 4-step process:
+**Must have**: The web-app features that must be included, else the web app is meaningless. For instance, Youtube must be able to play videos on the web page. 
+**Should have**: The Web-app features that are important but not a must-have. These features differ from the 'Must have' in a way that they can be added in a later released version without impacting the current version. 
+**Could have**: The 'could-have' features are the ones that are good to have for th web app, but not necessary nor urgent. For instance, Deliveroo app can add a voice message function to the deilverer chat box so that the customer can choose to leave a quick easy voice message rather than typing. However, this feature is not necessary nor urgent.
+**Will not have**: These are the features that will not be added to the web app in the current status to prevent **scope creep** (running out of time and resources because of the forever changing requirements). They might be prioritised in the future released versions, depending on the time and resources given in the future. 
 ### Documented and prioritised requirements
-Link to the full list of documented and prioritised requirements.
+#### User story table (specified requirements)
+
+#### Prioritised requirements 
 
 
 ## Design
