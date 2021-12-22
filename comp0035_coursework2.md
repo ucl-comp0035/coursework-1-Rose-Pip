@@ -49,14 +49,23 @@ The main functions available for the internal users are:
 ![InterfaceFlow](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/Interface%20flow.JPG)
 #### :o: Wireframes of each page 
 **:one:Registration Page**
+
 **:two:Login Page**
+
 **:three:External User Home Page**
+
 **:four:Internal User Home Page**
+
 **:five:DashBoard**
+
 **:six:Reports/News**
+
 **:seven:DashBoard Editing Page**
+
 **:eight:Reports/News Editing Page**
+
 **:nine:Profile Page**
+
 ### Application structure
 #### :o: UML class diagram for this web app
 
