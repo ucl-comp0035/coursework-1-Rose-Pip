@@ -1,7 +1,5 @@
 # Coursework 2
 
-Most students will use the same repository for coursework 2. You may use this file to present the results of that
-coursework if you wish. Alternatively you can use video or audio to provide the explanations instead of writing them.
 ## Definition of the business need
 ### Problem definition
 It is predicted that the population of Great London area will increase to up to 3 million people. Thus, an effective and efficient urban environmental protection project will is vital to help the city stay healthy and liveable as the population becomes larger.
@@ -38,15 +36,26 @@ It is a 4-step process:
 #### Prioritised requirements 
 **Note that in this coursework, the design of the web app mainly focuses on the Must-have and Should-have requirements.**
 ![Prioritised requirements](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/MosCow.JPG)
+
 ## Design
 ### Structure and flow of the interface
-The class diagram of this web app is: 
-
-
-### Relational database design
+#### :o: Targeted users and main functions  
+The web application is designed solely for PC terminal. 
+There are two types of users: external users (citizens who do not work at London City Hall) and internal users (staff at London City Hall). It is noticeable that both types of users are the targeted audience stated in the first section. 
+The main functions available for the internal users are:
+1. For the data analysts at London City Hall, the dashboard editing tools are available to use after login with their authorised staff ID. The dashboard tools are drag-and-drop. 
+2. For the project managers at London City Hall working under the Urban Greening Project, the report/news editing tools are available to use after login with their authorised staff ID. The reports/news editing tools are available solely to the project managers on the reports/news editing web page. 
+#### :o: The Wireframe and the flow of interface
 
 ### Application structure
+#### :o: UML class diagram for this web app
 
+#### :o: UML sequence diagrams for this web app
+**The sequence diagram for the external users**
+
+**The sequence diagram for the internal users**
+
+### Relational database design
 
 ## Testing
 ### Choice of unit testing library
@@ -57,41 +66,56 @@ The tests should be in a separate and appropriately named file/directory.
 ### Test results
 Provide evidence that the tests have been run and the results of the tests (e.g. screenshot).
 
-### Continuous integration (optional)
-Consider using GitHub Actions (or other) to establish a continuous integration pipeline. If you do so then please provide a link to the .yml and a screenshot of the results of a workflow run.
 
 ## Weekly progress reports
 
-Copy and paste from Moodle or use the following structure. Delete this instruction text.
-
+### Report 1
 What I did in the last week:
-
-- item
-- item
+-Learned how to choose suitable methods to identify requirements, specify requirements and prioritize requirements. 
+-Started on choosing to brainstorm for the identification requirements for the coursework.
+-Learned the stages taken to create wireframes for the user interface design (thorough understanding of UI and UX). 
 
 What I plan to do in the next week:
-
-- item
-- item
+-Will go through the detailed criteria of coursework 2.  
+-I plan to learn the standard UML diagrams for application design.
 
 Issues blocking my progress (state ‘None’ if there are no issues):
-
-- item
-- item
-
-### Report 1
+-A bit confused about the concept of UML. 
 
 ### Report 2
+What I did in the last week:
+-I earned Application Design and Interface Design. 
+-Moreover, I started drafting the UML diagrams (sequence diagram/ class diagram) for the web app I designed. 
+
+What I plan to do in the next week:
+-I plan to start learning database design and code quality with the lecture recording provided. 
+-After that, I will start drawing the relational database diagram for the coursework.
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+-I have no question in particular. 
 
 ### Report 3
+What I did in the last week:
+-I have learned the database design methods, and how to examine the code quality. 
+-I then developed an ER diagram to represent the relations between all databases for this web app. 
+What I plan to do in the next week:
+-I plan to finalize the first draft of the requirement and application design parts of coursework 2. 
+-Then I will start on the testing part.
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+-I have no question in particular.
 
 ### Report 4
+What I did in the last week:
+-I have done the requirements and done the sequence diagrams for the web app. I also made progress on the testing script. 
+
+What I plan to do in the next week:
+-I will finalize the application design part for the coursework. I will also learn how to generalize reports on the testing. 
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+-I am still a bit confused about the testing report bit. 
 
 ## References
-
-Delete this instruction text before submitting:
-
-- Include references to any templates you have used.
-- If you justify any of your choices with references then remember to also include these.
-- Use any [referencing style](https://library-guides.ucl.ac.uk/referencing-plagiarism/referencing-styles) that you are
-  used to using in your course.
+1.
+2.
+3.
