@@ -92,17 +92,22 @@ The main functions available for the internal users are:
 ![ERD](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/relational%20database.JPG)
 
 ## Testing
-### Choice of unit testing library
+### Choice of unit testing library is Pytest Library 
 
 ### Tests
-The tests should be in a separate and appropriately named file/directory.
+**:one: ![test 1 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_1_script.py)**
+**:two: ![test 2 script](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/tests/test_2_script.py)**
 
 ### Test results
-Provide evidence that the tests have been run and the results of the tests (e.g. screenshot).
+**:one: Test 1 passed due to correct assertion**
+![test 1 results](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/Image-cw2/Test%201%20result.png)
 
+**:two: Test 2 failed due to wrong input password**
+![test 2 results](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/master/Image-cw2/Test%202%20result.png)
+
+### Coverage Report of the main script 
 
 ## Weekly progress reports
-
 ### Report 1
 What I did in the last week:
 -Learned how to choose suitable methods to identify requirements, specify requirements and prioritize requirements. 
