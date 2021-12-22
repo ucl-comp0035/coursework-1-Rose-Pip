@@ -36,8 +36,8 @@ It is a 4-step process:
 #### User story table (specified requirements)
 ![UserStory](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/requirment%20document.JPG)
 #### Prioritised requirements 
-
-
+**Note that in this coursework, the design of the web app mainly focuses on the Must-have and Should-have requirements.**
+![Prioritised requirements](https://github.com/ucl-comp0035/coursework-1-Rose-Pip/blob/Rose-Pip-editing/Image-cw2/MosCow.JPG)
 ## Design
 ### Structure and flow of the interface
 The class diagram of this web app is: 
