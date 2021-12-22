@@ -1,7 +1,7 @@
 from python.main import User
 import pytest
 
-
+# fixture (i.e. test configuration)
 @pytest.fixture(scope='function')  # the fixture executes per function
 def general_user():
     g_user = User(first_name='f_name', last_name='l_name', email_address='123@email.com', username="u_name")
